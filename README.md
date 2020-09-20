@@ -1,16 +1,21 @@
+## Becca Steinbrecher
 ### Hi there 👋
-
 - 🌱 I’m currently learning: Vue, Ember
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/becca-steinbrecher/), [Portfolio](https://alumni.turing.io/alumni/becca-steinbrecher)
 - 😄 Pronouns: she/her
 
-## Becca Steinbrecher
-
+### Skills
+![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black)
+![TS](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![HTM5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-stein" alt="b-stein" /> </p>
+![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-stein&layout=compact" alt="b-stein" /></p>
 
 [![Becca's github stats](https://github-readme-stats.vercel.app/api?username=b-stein&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-stein&layout=compact" alt="b-stein" /></p>
 
