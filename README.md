@@ -4,7 +4,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/becca-steinbrecher/)
 - 😄 Pronouns: she/her
 
-### Skills
+## Skills
 <p align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -18,5 +18,3 @@
 
 
 [![Becca's github stats](https://github-readme-stats.vercel.app/api?username=b-stein&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-stein&layout=compact" alt="b-stein" /></p>
-
