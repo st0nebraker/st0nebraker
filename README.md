@@ -18,5 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-stein&layout=compact" alt="b-stein" /></p>
 
-[![Becca's github stats](https://github-readme-stats.vercel.app/api?username=b-stein&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Becca's github stats](https://github-readme-stats.vercel.app/api?username=b-stein&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
