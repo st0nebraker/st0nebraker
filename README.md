@@ -1,7 +1,9 @@
 ## Becca Steinbrecher
 ### Hi there 👋
 - 🌱 I’m currently learning: Vue, Ember
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/becca-steinbrecher/)
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/becca-steinbrecher/)
+  - Email: beccasteinbrecher@gmail.com
 - 😄 Pronouns: she/her
 
 ## Skills
