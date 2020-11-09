@@ -1,6 +1,6 @@
 ## Becca Steinbrecher
 ### Hi there 👋
-- 🌱 I’m currently learning: Vue, Ember
+- 🌱 I’m currently learning: Ember
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/becca-steinbrecher/)
   - Email: beccasteinbrecher@gmail.com
