@@ -1,6 +1,5 @@
 ## Becca Steinbrecher
 ### Hi there 👋
-- 🌱 I’m currently learning: `Ember` & `Ruby`
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/becca-steinbrecher/)
   - Email: beccasteinbrecher@gmail.com
