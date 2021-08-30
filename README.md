@@ -13,6 +13,3 @@
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
-
-
-[![Becca's github stats](https://github-readme-stats.vercel.app/api?username=st0nebraker&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
