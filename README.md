@@ -1,4 +1,3 @@
-## Becca Steinbrecher
 ### Hi there 👋
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/becca-steinbrecher/)
