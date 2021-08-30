@@ -15,4 +15,4 @@
 </p>
 
 
-[![Becca's github stats](https://github-readme-stats.vercel.app/api?username=b-stein&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Becca's github stats](https://github-readme-stats.vercel.app/api?username=st0nebraker&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
